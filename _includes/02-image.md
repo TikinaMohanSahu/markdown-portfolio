@@ -1,4 +1,6 @@
 This Image showing the quality of a leader.
 
-https://github.com/TikinaMohanSahu/markdown-portfolio/pull/3#issuecomment-1072953018
+![project_2](https://user-images.githubusercontent.com/73054717/159110234-28e19505-4918-4a85-9b2c-40f3ea81e1d3.jpeg)
+
+
 
